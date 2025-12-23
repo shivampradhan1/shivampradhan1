@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m Shivam!
+
 A data and operations enthusiast diving deep into dashboards, analytics, and insights. 
 
 🔍 Currently exploring advanced Power BI and SQL tricks. 
